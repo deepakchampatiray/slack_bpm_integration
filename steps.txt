@@ -1,0 +1,8 @@
+1. Create a new group (groups.create)
+2. Set group topic (groups.setTopic)
+3. Set group purpose (groups.setPurpose)
+4. Add local members to group (groups.invite)
+5. If outside users need to be invited, invite them (admin.users.invite)
+6. Wait for signal to purge channel.
+7. Get channel history (groups.history)
+8. Download files, if any ()
